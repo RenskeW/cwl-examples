@@ -1,0 +1,7 @@
+file_array:
+- class: File
+  location: ./README.md
+- class: File
+  location: ./touch_array.cwl
+
+input_dir: "hello"
